@@ -1,0 +1,36 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Russell Camo",
+  "classifications": ["WPF","MVVM","Desktop"],
+  "identity": "Russkyc.Wpf.Mvvm",
+  "name": "WPF MVVM Project",
+  "sourceName": "Russkyc.Wpf.Mvvm",
+  "shortName": "russkyc-wpfmvvm",
+  "description": "Creates a WPF MVVM Project with the CommunityToolkit.MVVM.",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true,
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The Target Framework",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "net6.0",
+          "description": "Target .NET 6",
+          "displayName": ".NET 6"
+        },
+        {
+          "choice": "net7.0",
+          "description": "Target .NET 7",
+          "displayName": ".NET 7"
+        }
+      ],
+      "defaultValue": "net6.0",
+      "replaces": "net6.0"
+    }
+  }
+}
