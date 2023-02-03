@@ -20,6 +20,9 @@
         <ContentTargetFolders>content</ContentTargetFolders>
         <NoWarn>$(NoWarn);NU5128</NoWarn>
         <NoDefaultExcludes>true</NoDefaultExcludes>
+        <PackageProjectUrl>https://github.com/russkyc/Russkyc.Templates.WPF-MVVM</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/russkyc/Russkyc.Templates.WPF-MVVM</RepositoryUrl>
+        <PackageReleaseNotes>add repository</PackageReleaseNotes>
     </PropertyGroup>
 
     <ItemGroup>
