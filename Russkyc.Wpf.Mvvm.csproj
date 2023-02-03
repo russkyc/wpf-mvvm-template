@@ -10,10 +10,10 @@
         <Description>A WPF MVVM Template with CommunityToolkit.MVVM for .NET6 and .NET7</Description>
         <Copyright>Russell Camo 2022</Copyright>
         <PackageIcon>Russkyc.png</PackageIcon>
-        <PackageTags>WPF MVVM WPFMVVM MVVMTemplate WPFTemplate CommunityToolkit</PackageTags>
+        <PackageTags>WPF MVVM WPFMVVM MVVMTemplate WPFTemplate CommunityToolkit Template</PackageTags>
         <TargetFramework>net6.0-windows</TargetFramework>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <Version>1.0.4</Version>
+        <Version>1.0.5</Version>
 
         <IncludeContentInPack>true</IncludeContentInPack>
         <IncludeBuildOutput>false</IncludeBuildOutput>
