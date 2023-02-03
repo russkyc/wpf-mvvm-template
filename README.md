@@ -10,7 +10,7 @@
 
 This is a WPF Template for .NET 6 and .NET 7 that uses CommunityToolkit.MVVM to provide an efficient and scalable architecture for building modern WPF applications. The template comes with a package reference to CommunityToolkit.Mvvm to Implement the **MVVM** Architecture.
 
-<img src="C:\Users\Russell\RiderTemplates\Russkyc.Wpf.Mvvm\images\Rider Project Preview.png"/>
+<img src="https://raw.githubusercontent.com/russkyc/Russkyc.Templates.WPF-MVVM/master/images/Rider%20Project%20Preview.png"/>
 
 #### Installation
 ```cmd
