@@ -6,7 +6,7 @@
 
 | Version                                                                                                                                  | Package Name               |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| ![Nuget](https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de) ![](https://img.shields.io/badge/DotNetCore-2.0-1f72de) | Russkyc.Templates.WPF-MVVM |
+| ![Nuget](https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de) ![](https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET) | Russkyc.Templates.WPF-MVVM |
 
 This is a WPF Template for .NET 6 and .NET 7 that uses CommunityToolkit.MVVM to provide an efficient and scalable architecture for building modern WPF applications. The template comes with a package reference to CommunityToolkit.Mvvm to Implement the **MVVM** Architecture.
 
