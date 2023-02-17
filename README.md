@@ -22,7 +22,7 @@ dotnet new update Russkyc.Templates.WPF-MVVM
 ```
 #### Usage
 ```cmd
-dotnet new wpfmvvm -n YourProjectName
+dotnet new russkyc-wpfmvvm -n YourProjectName
 ```
 #### Removal
 ```cmd
