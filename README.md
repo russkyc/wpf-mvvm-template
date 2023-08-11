@@ -1,10 +1,5 @@
 ﻿<h2 align="center">Russkyc.Templates.WPF-MVVM</h2>
 
-<span style="display: block; text-align: center;">
-    <img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget">
-    <img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET" alt="">
-</span>
-
 <p align="center">
     <img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget">
     <img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET" alt="">
