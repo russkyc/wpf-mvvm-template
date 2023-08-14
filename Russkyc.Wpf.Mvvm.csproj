@@ -13,7 +13,7 @@
         <PackageTags>WPF MVVM WPFMVVM MVVMTemplate WPFTemplate CommunityToolkit Template</PackageTags>
         <TargetFramework>net6.0-windows</TargetFramework>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <Version>1.0.5</Version>
+        <Version>1.0.6</Version>
 
         <IncludeContentInPack>true</IncludeContentInPack>
         <IncludeBuildOutput>false</IncludeBuildOutput>
@@ -26,7 +26,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
     </ItemGroup>
 
     <ItemGroup>
