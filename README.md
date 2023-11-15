@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET" alt="">
+        <img src="https://img.shields.io/badge/-.NET%208.0-blueviolet?color=1f72de&label=NET" alt="">
     </a>
 </p>
 
